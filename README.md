@@ -11,4 +11,4 @@ To run this Jupyter Notebook file, make sure you have the required dependencies 
 
 Note
 The model's accuracy may not be representative of its performance on real-world data.
-For more readable format [click here](https://github.com/Billl-11/Linear-Regression-Machine-Learning-Model/blob/main/Linear%20Regression%20Model_Single%20feature.pdf)
+For more readable format [click here](https://github.com/Billl-11/Logistic-Regression-Machine-Learning-Model/blob/main/pdf-ver%20Logistic_Regression_Model_exam_score.pdf)
