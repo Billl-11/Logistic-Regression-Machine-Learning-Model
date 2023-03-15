@@ -7,7 +7,7 @@ This Jupyter Notebook file performs a machine learning model using Logistic Regr
 - `matplotlib`
 
 ## Usage
-To run this Jupyter Notebook file, make sure you have the required dependencies installed and dataset downloaded. Then, open the file in Jupyter Notebook and run each cell in sequence. You can modify the code as needed to experiment with different parameters and see how they affect the model's performance.
+To run this Jupyter Notebook file, make sure you have the required dependencies installed and datasets](https://github.com/Billl-11/Logistic-Regression-Machine-Learning-Model/blob/main/exam_Score.txt) downloaded. Then, open the file in Jupyter Notebook and run each cell in sequence. You can modify the code as needed to experiment with different parameters and see how they affect the model's performance.
 
 Note
 The model's accuracy may not be representative of its performance on real-world data.
